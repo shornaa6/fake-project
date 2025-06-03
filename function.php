@@ -12,3 +12,4 @@ revealidentity();
 
 
 echo "Hi there! What's Up?!";
+echo "Hi there! What's Up?!";

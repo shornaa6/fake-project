@@ -9,3 +9,6 @@ function revealidentity(){
 }
 
 revealidentity();
+
+
+echo "Hi there! What's Up?!";
